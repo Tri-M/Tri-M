@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trisha</h1>
-<h2 align="center">Chennai, India.</h2>
+<h1 align="center">Hi 👋, I'm Trisha, from Chennai, India.</h1>
 <h4 align="center">Quite dumb at most of the times.</h4>
 
 - 🌱 I’m currently learning **Flutter and MERN**
