@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trisha, from Chennai, India.</h1>
-<h4 align="center">Quite dumb at most of the times.</h4>
+<h4 align="center">😃</h4>
 
-- 🌱 I’m currently learning **Flutter and MERN**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tri-M](https://github.com/Tri-M)
 
