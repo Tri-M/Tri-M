@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tri-M](https://github.com/Tri-M)
 
-- 📫 How to reach me **trisham0910@outlook.com**
+- 📫 How to reach me : **trisham0910@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
