@@ -1,3 +1,7 @@
+<br>
+<h1 align="center">Hi 👋, I'm Trisha</h1>
+<h3 align="center">A passionate developer from Chennai,India.</h3>
+
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
@@ -27,9 +31,7 @@
  end
  ```
  
-<br>
-<h1 align="center">Hi 👋, I'm Trisha</h1>
-<h3 align="center">A passionate developer from Chennai,India.</h3>
+
 
 - 🌱 I’m currently learning **Flutter, Dart and Java.**
 
