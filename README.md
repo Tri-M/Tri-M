@@ -16,7 +16,7 @@
      @age = 20
      
      @education = [ 'D.A.V.P.S Chennai', 'PSG Tech Coimbatore' 'IIT Madras' ]
-     @hobbies = [ 'Traveling', 'Dancing', 'Running', 'Reading', 'Binging on movies' ]
+     @hobbies = [ 'Traveling', 'Dancing', 'Running', 'Reading', 'Binging on movies','Sleeping' ]
    end
 
    def current_location
