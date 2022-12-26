@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Chennai,India.</h3>
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="[https://github.com/demartini/demartini/blob/master/code.gif](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)">
 </p>
 
 
