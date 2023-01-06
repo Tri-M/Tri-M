@@ -1,11 +1,6 @@
 ![Header](./github-header.png)
 
 
-<p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-</p>
-
-
 \- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras. - Passionate about app development and machine learning.
 
 * 🌍  I'm based in Chennai & Coimbatore
@@ -13,6 +8,14 @@
 * 🧠  I'm learning FastAPI & DevOps
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  Foodie | Hodophile | Sports freak
+
+
+
+<p align="center">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+</p>
+
+
 
 ### Skills
 
