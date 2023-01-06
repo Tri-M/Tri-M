@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 
 
 \- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras. - Passionate about app development and machine learning.
