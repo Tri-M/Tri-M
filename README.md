@@ -1,14 +1,9 @@
-
+![Header](./github-header.png)
 
 <p align="center">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 </p>
 
-Hi 👋 My name is Trisha
-=======================
-
-Developer
----------
 
 \- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras. - Passionate about app development and machine learning.
 
