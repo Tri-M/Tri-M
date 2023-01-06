@@ -4,13 +4,13 @@
 
 \- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras | Passionate about app development, web development and machine learning.
 
-<p align="center">
+
 * 🌍  I'm based in Chennai & Coimbatore
 * ✉️  You can contact me at [trisham0910@outlook.com](mailto:trisham0910@outlook.com)
 * 🧠  I'm learning FastAPI & DevOps
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  Foodie | Hodophile | Sports freak
-</p>
+
 
 <p align="center">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
