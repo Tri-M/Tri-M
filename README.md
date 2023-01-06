@@ -3,12 +3,13 @@
 
 \- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras | Passionate about app development, web development and machine learning.
 
+<p align="center">
 * 🌍  I'm based in Chennai & Coimbatore
 * ✉️  You can contact me at [trisham0910@outlook.com](mailto:trisham0910@outlook.com)
 * 🧠  I'm learning FastAPI & DevOps
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  Foodie | Hodophile | Sports freak
-
+</p>
 
 
 <p align="center">
@@ -17,7 +18,7 @@
 
 
 
-### Skills
+<center>### Skills</center>
 
 
 <p align="center">
@@ -40,7 +41,7 @@
 </p>
 
 
-### Socials
+<center>### Socials</center>
 
 <p align="center"> <a href="https://www.github.com/Tri-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/trish_.09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/trisha-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
