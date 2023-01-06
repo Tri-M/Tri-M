@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-\- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras. \- Passionate about app development and machine learning.
+\- M.Sc. Software Systems at PSG College of Technology, Coimbatore & B.Sc. in Programming and Data Science at IIT Madras | Passionate about app development, web development and machine learning.
 
 * 🌍  I'm based in Chennai & Coimbatore
 * ✉️  You can contact me at [trisham0910@outlook.com](mailto:trisham0910@outlook.com)
