@@ -15,7 +15,8 @@
 <p align="center">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 </p>
-<br>
+
+
 ### Skills
 
 
