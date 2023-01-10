@@ -40,7 +40,6 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=wlwhunw3muz35j5o2hiejagms&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wlwhunw3muz35j5o2hiejagms&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=080808&bar_color_cover=true)]]
 
 ### Socials
 
