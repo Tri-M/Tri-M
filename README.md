@@ -45,6 +45,7 @@
 
 <p align="left"><a href="http://www.instagram.com/trish_.09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/trisha-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/trix09" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trix09" height="30" width="40" /></a></p>
 
+[![Trisha's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Tri-M&bg_color=000000&color=00ff1e&line=f16f04&point=01e8f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tri-M&icon=0&color=0)](https://visitcount.itsvg.in)
