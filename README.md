@@ -51,7 +51,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-M&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tri-M&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 [![Trisha's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Tri-M&bg_color=000000&color=00ff1e&line=f16f04&point=01e8f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
