@@ -45,17 +45,6 @@
 
 <p align="left"><a href="http://www.instagram.com/trish_.09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/trisha-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/trix09" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trix09" height="30" width="40" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tri-M"><img src="https://github-readme-stats.vercel.app/api?username=Tri-M&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=facc15&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Tri-M's GitHub stats" /></a>
-
-<a href="http://www.github.com/Tri-M"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tri-M&stroke=facc15&background=000000&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/Tri-M"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tri-M&bg_color=000000&color=facc15&line=84cc16&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Tri-M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-M&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tri-M&icon=0&color=0)](https://visitcount.itsvg.in)
