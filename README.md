@@ -45,7 +45,7 @@
 
 <p align="left"><a href="http://www.instagram.com/trish_.09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/trisha-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.leetcode.com/trix09" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trix09" height="30" width="40" /></a></p>
 
-# 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tri-M&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tri-M&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-M&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
